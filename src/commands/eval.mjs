@@ -6,7 +6,7 @@ export default {
     aliases: ["ev"],
     usage: "<code>",
     permission: ["BOT_OWNER"],
-    async run({ msg, args }) {
+    async run({ bot, msg, args }) {
         try {
             const respTags = [];
             let evaled = eval(args.join(" "));
