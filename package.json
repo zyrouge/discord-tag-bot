@@ -7,8 +7,8 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "MIT",
-  "license": "ISC",
+  "author": "Zyrouge",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zyrouge/discord-tag-bot/issues"
   },
